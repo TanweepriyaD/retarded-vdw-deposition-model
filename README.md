@@ -1,6 +1,6 @@
 # Retarded van der Waals Deposition Model
 
-MATLAB code from my PhD (Chemical Engineering, University of Melbourne, 2023) for predicting how colloidal particles — homogeneous, coated, and air-filled capsules — deposit onto a surface while flowing through a microfluidic channel.
+MATLAB code from my PhD (Chemical Engineering, University of Melbourne, 2023) for predicting how colloidal particles, homogeneous, coated, and air-filled capsules, deposit onto a surface while flowing through a microfluidic channel.
 
 Full thesis: *Deposition Behaviour of Coated Particles and Capsules* (Tanweepriya Das, 2023). Related publication: Das, T.; Smith, J. D.; Uddin, M. H.; Dagastine, R. R. "Anisotropic Particle Fabrication Using Thermal Scanning Probe Lithography." *ACS Appl. Mater. Interfaces* 2022, 14(17), 19878–19888. https://pubs.acs.org/doi/10.1021/acsami.2c02885
 
